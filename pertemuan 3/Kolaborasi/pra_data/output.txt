@@ -1,0 +1,21 @@
+        RUMAH MAKAN        
+===========================
+Menu Makanan dan Harga :   
+1. Ayam Geprek  : Rp21.000
+2. Ayam Goreng  : Rp17.000
+3. Udang Goreng : Rp19.000
+4. Cumi Goreng  : Rp20.000
+5. Ayam Bakar   : Rp25.000
+
+=========================
+Harga pesanan anda : 77000
+
+Ongkir sebesar : 25000
+
+Anda mendapatkan potongan ongkir sebesar Rp3.000
+
+Total Harga : 85450
+
+Uang anda : 150000
+
+Kembalian : 64550

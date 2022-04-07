@@ -41,10 +41,10 @@ int main() {
     cout<<"=================================================="<<endl;
     cout<<"|                      NOTA                      |"<<endl;
     cout<<"=================================================="<<endl;;
-    cout<<"No.   Nama Barang    Jumlah     Harga     Jumlah"<<endl;
+    cout<<"No.   Nama Barang    Jumlah     Harga     Total"<<endl;
     for (int i = 0; i < jml_beli; i++){
     	cout<<i+1<<"\t"<<nama_brg[i]<<"\t"<<jmlhbrg[i]<<"\t"<<hrgbrg[i]<<"\t"<<subttl[i]<<endl; // Menampilkan semua nilai array
-	//setw sebuah fungsi manipulator yang berguna untuk mengatur lebar dari suatu tampilan data.
+	
     }
     cout<<"=================================================\n";
     cout<<"\t\tJumlah Bayar\t: Rp."<<tot<<endl;
