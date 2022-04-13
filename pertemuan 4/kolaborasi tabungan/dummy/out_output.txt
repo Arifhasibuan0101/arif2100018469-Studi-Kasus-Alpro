@@ -1,0 +1,7 @@
+Pengeluaran Perbulan
+ bulan 1 13332400
+ bulan 2 0
+ bulan 3 256
+==================================
+Total Pengeluaran :1300000
+sisa uang :-1299955
