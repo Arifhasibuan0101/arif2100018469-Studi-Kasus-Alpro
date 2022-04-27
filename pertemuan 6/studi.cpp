@@ -18,9 +18,9 @@ void learn::input() {
   cout << "|     Penginputan Nilai Dari dosen     |" << endl;
   cout << "+++++++++++++++++++++++++++++++++++++++" << endl;
   cout << "Masukkan Nama Mata Kuliah : ";//cin >> dosen;
-  getline(cin, dosen);//menambah spasi
+  getline(cin, mk);//menambah spasi
   cout << "Masukkan Nama Dosen       : ";
-  getline(cin, mk);
+  getline(cin, dosen);
   cout<<" Berapa mahasiswa yang ingin anda input? : ";
   cin>>n;
   for (int i = 0; i < n; i++) {
@@ -49,8 +49,8 @@ void learn::output(){
   cout << "+++++++++++++++++++++++++++++++++++++++" << endl;
   cout << "|  Hasil Penginputan Nilai Dari dosen |" << endl;
   cout << "+++++++++++++++++++++++++++++++++++++++" << endl;
-  cout<<"Nama dosen : "<<dosen <<endl;
   cout<<"Mata kuliah : "<<mk <<endl;
+  cout<<"Nama dosen : "<<dosen <<endl;
   cout<<"+++++++++++++++++++++++++++++++++++++++++"<<endl;
   cout<<"Hasil input nilai mahasiswa : "<<endl;
   for(int a = 0; a < n; a++){
